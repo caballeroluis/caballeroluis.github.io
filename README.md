@@ -19,7 +19,7 @@ I will be regularly updating the project with new content, including blog posts,
 If you are interested in contributing or following my progress, I encourage you to check out the project repository on GitHub. You can find the source code, submit issues, and even make pull requests to help me improve.
 
 - Original repository: [https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme](https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme)
-- My fork: [https://github.com/caballeroluis.github.io](https://github.com/caballeroluis.github.io)
+- My fork: [https://caballeroluis.github.io](https://caballeroluis.github.io)
 
 ## Contact Me
 

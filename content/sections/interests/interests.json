@@ -1,59 +1,150 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "ReactJS",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "ReactJS Logo"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "VueJS",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/vue.png",
+        "alt": "VueJS Logo"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Angular",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/angular.png",
+        "alt": "Angular Logo"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Node",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/nodejs.png",
+        "alt": "Node Logo"
       }
     },
     {
-      "label": "Animations",
+      "label": "Laravel",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/laravel.png",
+        "alt": "Laravel Logo"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Ionic",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/ionic.png",
+        "alt": "Ionic Logo"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": "TypeScript Logo"
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": "JavaScript Logo"
+      }
+    },
+    {
+      "label": "PHP",
+      "image": {
+        "src": "../../images/php.png",
+        "alt": "PHP Logo"
+      }
+    },
+    {
+      "label": "Postgresql",
+      "image": {
+        "src": "../../images/postgresql.png",
+        "alt": "Postgresql Logo"
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongodb.png",
+        "alt": "MongoDB Logo"
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker.png",
+        "alt": "Docker Logo"
+      }
+    },
+    {
+      "label": "Firebase",
+      "image": {
+        "src": "../../images/firebase.png",
+        "alt": "Firebase Logo"
+      }
+    },
+    {
+      "label": "REST",
+      "image": {
+        "src": "../../images/rest.png",
+        "alt": "REST Logo"
+      }
+    },
+    {
+      "label": "GraphQL",
+      "image": {
+        "src": "../../images/graphql.png",
+        "alt": "GraphQL Logo"
+      }
+    },
+    {
+      "label": "Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
+        "alt": "Gatsby Logo"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Nginx",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/nginx.png",
+        "alt": "Nginx Logo"
+      }
+    },
+    {
+      "label": "Debian",
+      "image": {
+        "src": "../../images/debian.png",
+        "alt": "Debian Logo"
+      }
+    },
+    {
+      "label": "Gitlab",
+      "image": {
+        "src": "../../images/gitlab.png",
+        "alt": "Gitlab Logo"
+      }
+    },
+    {
+      "label": "Scrum",
+      "image": {
+        "src": "../../images/scrum.png",
+        "alt": "Scrum Logo"
+      }
+    },
+    {
+      "label": "TDD",
+      "image": {
+        "src": "../../images/tdd.png",
+        "alt": "TDD Logo"
       }
     }
   ],
